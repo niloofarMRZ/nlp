@@ -1,5 +1,5 @@
 # nlp 
-## HW2: 
+#### HW2: 
 Applied Word2Vec representation and k-means clustering for a governmental newspaper naming ”Hamshahri”
-## HW3:
+#### HW3:
 
